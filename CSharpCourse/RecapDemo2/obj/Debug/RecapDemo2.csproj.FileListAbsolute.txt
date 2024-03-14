@@ -1,0 +1,7 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb

@@ -1,0 +1,7 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb

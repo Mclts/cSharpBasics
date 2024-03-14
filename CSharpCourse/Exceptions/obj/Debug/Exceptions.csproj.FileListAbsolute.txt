@@ -1,0 +1,7 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

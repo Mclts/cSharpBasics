@@ -1,0 +1,7 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Arrays\obj\Debug\Arrays.pdb

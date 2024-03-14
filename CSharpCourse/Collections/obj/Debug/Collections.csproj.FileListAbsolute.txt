@@ -1,0 +1,7 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\Collections\obj\Debug\Collections.pdb

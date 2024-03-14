@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFramework.dll
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFramework.xml
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.Form1.resources
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.Properties.Resources.resources
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFr.D015387B.Up2Date
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.pdb

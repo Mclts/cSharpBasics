@@ -1,0 +1,7 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\bin\Debug\ActionAndFunc.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\bin\Debug\ActionAndFunc.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\bin\Debug\ActionAndFunc.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\obj\Debug\ActionAndFunc.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\obj\Debug\ActionAndFunc.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\obj\Debug\ActionAndFunc.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\ActionAndFunc\obj\Debug\ActionAndFunc.pdb

@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\DryIoc.dll
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\System.ValueTuple.dll
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\DryIoc.xml
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\bin\Debug\System.ValueTuple.xml
+C:\Users\W10\Desktop\Asp.Net\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.Up2Date
